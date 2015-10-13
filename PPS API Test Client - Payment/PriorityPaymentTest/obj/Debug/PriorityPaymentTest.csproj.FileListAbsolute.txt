@@ -1,0 +1,9 @@
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\bin\Debug\PriorityPaymentTest.exe.config
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\bin\Debug\PriorityPaymentTest.exe
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\bin\Debug\PriorityPaymentTest.pdb
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\obj\Debug\PriorityPaymentTest.csprojResolveAssemblyReference.cache
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\obj\Debug\PriorityPaymentTest.Form1.resources
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\obj\Debug\PriorityPaymentTest.Properties.Resources.resources
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\obj\Debug\PriorityPaymentTest.csproj.GenerateResource.Cache
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\obj\Debug\PriorityPaymentTest.exe
+C:\Dev\PPS API Test Client - Payment\PriorityPaymentTest\obj\Debug\PriorityPaymentTest.pdb
