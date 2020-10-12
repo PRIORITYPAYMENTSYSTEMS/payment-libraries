@@ -11,10 +11,10 @@ curl_setopt_array($curl, array(
   CURLOPT_FOLLOWLOCATION => true,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "POST",
-  CURLOPT_POSTFIELDS =>"{\n    \"merchantId\": \"516158974\",\n    \"tenderType\": \"Card\",\n    \"amount\": \"9.00\",\n    \"paymentType\": \"sale\",\n    \"cardAccount\":{\"number\":\"4100000000000001\",\"expiryMonth\":\"04\",\"expiryYear\":\"2029\"},\n    \"authOnly\":false\n}\n",
+  CURLOPT_POSTFIELDS =>"{\n    \"merchantId\": \"522158224\",\n    \"tenderType\": \"Card\",\n    \"amount\": \"9.00\",\n    \"paymentType\": \"sale\",\n    \"cardAccount\":{\"number\":\"4100000000000001\",\"expiryMonth\":\"04\",\"expiryYear\":\"2029\"},\n    \"authOnly\":false\n}\n",
   CURLOPT_HTTPHEADER => array(
     "Content-Type: application/json",
-    "Authorization: Basic TE9iaDFWZTdGbkFMVDRTY3NIMG8xZ1JDOm1XZEc0ZXpHalVjU2pTckJBd2N3QnNVSE53ST0="
+    "Authorization: Basic TE9iaDFWZTdGbkFMVDRTY3NIMGzzZ1JDOm1XZEc0ZXpHalVjU2pTzkJBd2N3QnNVSE53ST0="
   ),
 ));
 
