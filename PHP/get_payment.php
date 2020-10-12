@@ -3,7 +3,7 @@
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-  CURLOPT_URL => "https://sandbox.api.mxmerchant.com/checkout/v3/payment/83133741",
+  CURLOPT_URL => "https://sandbox.api.mxmerchant.com/checkout/v3/payment/83199755",
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => "",
   CURLOPT_MAXREDIRS => 10,
@@ -12,7 +12,7 @@ curl_setopt_array($curl, array(
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "GET",
   CURLOPT_HTTPHEADER => array(
-    "Authorization: Basic TE9iaDFWZTdGbkFMVDRTY3NIMG8xZ1JDOm1XZEc0ZXpHalVjU2pTckJBd2N3QnNVSE53ST0=",
+    "Authorization: Basic TE9iaDFWZTdGbkFMVDRTY3zzMG8xZ1JDOm1XZEc0ZXpHalVjU2pTckJBd2N3QnNVSE53ST0=",
     "User-Agent: PostmanRuntime/7.22.0",
     "Accept: */*",
     "Cache-Control: no-cache",
