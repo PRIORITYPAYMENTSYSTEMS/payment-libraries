@@ -11,10 +11,10 @@ curl_setopt_array($curl, array(
   CURLOPT_FOLLOWLOCATION => true,
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "POST",
-  CURLOPT_POSTFIELDS =>"{\r\n    \"merchantId\": 516158974,\r\n    \"name\": \"Johnson Nguyen\",\r\n    \"firstName\": \"Test\",\r\n    \"lastName\": \"Customer\",\r\n    \"address1\": \"221 E Baker St\",\r\n    \"address2\": \"Suite 2\",\r\n    \"city\": \"Dallas\",\r\n    \"state\": \"TX\",\r\n    \"zip\": \"75252\",\r\n    \"addressName\": \"Headquarters\",\r\n    \"customerType\": \"Person\",\r\n    \"spendProfileOverride\": true,\r\n    \"isTaxExempt\": false,\r\n    \"hasPayments\": false,\r\n    \"hasContracts\": false,\r\n    \"hasInvoices\": false,\r\n    \"displayColor\": \"A1BC3A\",\r\n }",
+  CURLOPT_POSTFIELDS =>"{\r\n    \"merchantId\": 516151174,\r\n    \"name\": \"Johnson Nguyen\",\r\n    \"firstName\": \"Test\",\r\n    \"lastName\": \"Customer\",\r\n    \"address1\": \"221 E Baker St\",\r\n    \"address2\": \"Suite 2\",\r\n    \"city\": \"Dallas\",\r\n    \"state\": \"TX\",\r\n    \"zip\": \"75252\",\r\n    \"addressName\": \"Headquarters\",\r\n    \"customerType\": \"Person\",\r\n    \"spendProfileOverride\": true,\r\n    \"isTaxExempt\": false,\r\n    \"hasPayments\": false,\r\n    \"hasContracts\": false,\r\n    \"hasInvoices\": false,\r\n    \"displayColor\": \"A1BC3A\",\r\n }",
   CURLOPT_HTTPHEADER => array(
     "Content-Type: application/json",
-    "Authorization: Basic dVNSMXY4YmVVRUdmZmp1UGhuZm1XQVRJOjBVVTVjcjVURlU5a2ppNS9US1cwWHJwZERXZz0="
+    "Authorization: Basic dVNSMXY4YmVVRUdmZmp1UGhuZm1XQVRJOjBzzTVjcjVURlU5a2ppNS9US1cwWHJwZERXZz0="
   ),
 ));
 
